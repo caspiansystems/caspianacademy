@@ -3,6 +3,6 @@ This repository is created for learning and education purposes. It contains soft
    - Peogramming techniques
    - Embedded software architecture
    - Embedded system technologies
-   - Embedded software software design
+   - Embedded software design
  
  www.caspiansystems.dk
