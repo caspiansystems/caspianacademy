@@ -1,0 +1,3 @@
+[submodule "Technology/qt_cmake_skeleton/unit_tests/googletest"]
+	path = Technology/qt_cmake_skeleton/unit_tests/googletest
+	url = https://github.com/google/googletest.git
